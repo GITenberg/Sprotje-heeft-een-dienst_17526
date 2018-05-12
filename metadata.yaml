@@ -1,0 +1,30 @@
+_repo: Sprotje-heeft-een-dienst_17526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scharten-Antink, M. (Margo Sybranda Everdina)
+    aliases:
+    - Schaarten-Antink, M. (Margo Sybranda Everdina)
+    - Scharten-Antink, Margo Sybranda Everdina
+    - SchartenAntink, M. (Margo Sybranda Everdina)
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '7436'
+    url: http://www.gutenberg.org/2009/agents/7436
+description: ''
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17526'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Sprotje heeft een dienst
+url: http://www.gutenberg.org/ebooks/17526
